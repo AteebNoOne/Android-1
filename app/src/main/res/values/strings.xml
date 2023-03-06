@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BrickBreakerGame</string>
+    <string name="high_scores_label">Top Ten High Scores</string>
+    <string name="high_scores_format">%1$s - %2$s</string>
+</resources>
